@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentinela.Systemx", "Sentinela.Systemx\Sentinela.Systemx.csproj", "{E8144FC6-C282-47D8-A517-7C84C429BC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8144FC6-C282-47D8-A517-7C84C429BC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8144FC6-C282-47D8-A517-7C84C429BC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8144FC6-C282-47D8-A517-7C84C429BC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8144FC6-C282-47D8-A517-7C84C429BC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356BDFDC-0AE7-4676-A599-02EA185685C8}
+	EndGlobalSection
+EndGlobal
